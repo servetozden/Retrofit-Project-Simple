@@ -22,5 +22,5 @@ Preview the POJO class and copy it into your Android Studio Project Structure.
 ![](images/retrofit-result.png) <dt>
 
 ## Source
-https://square.github.io/retrofit/
-https://www.journaldev.com/
+https://square.github.io/retrofit/ <dt>
+https://www.journaldev.com/ <dt>
